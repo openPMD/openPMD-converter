@@ -1,5 +1,5 @@
-openPMD Validator Scripts
-=========================
+openPMD Tools
+=============
 
 This repository contains scripts and small tools that can be used to work with
 or enhance validat openPMD files.
