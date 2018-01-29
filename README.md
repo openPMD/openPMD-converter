@@ -2,11 +2,11 @@ openPMD Tools
 =============
 
 This repository contains scripts and small tools that can be used to work with
-or enhance validat openPMD files.
-See the [openPMD Standard](https://github.com/openPMD/openPMD-standard).
+or enhance valid openPMD files.
+See the [openPMD standard](https://github.com/openPMD/openPMD-standard).
 
 
-More than scripts
+More than Scripts
 -----------------
 
 If you are looking for libraries, projects and frameworks that support the
