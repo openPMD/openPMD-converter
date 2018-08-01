@@ -5,6 +5,23 @@ This repository contains scripts and small tools that can be used to work with
 or enhance valid openPMD files.
 See the [openPMD standard](https://github.com/openPMD/openPMD-standard).
 
+Conversion from/to openPMD
+--------------------------
+
+The following external repositories contain converters to/from openPMD files.
+
+- [openPMD => VTK](https://github.com/hightower8083/opmd2VTK) (Weizmann Institute of Science, Israel)
+  - domain: convert openPMD HDF5 to VTK containers
+  - [repository](https://github.com/hightower8083/opmd2VTK) (GPLv3+)
+  - maintainers: I Andriyash @hightower8083
+  - status: implemented (base standard 1.X)
+
+- [openPMD <=> GPT](https://github.com/KseniaBastrakova/openPMD-converter-GDF) (HZDR, Germany)
+  - domain: convert between [GPT](http://www.pulsar.nl/gpt/)'s GDF and openPMD HDF5 (back & forth)
+  - [repository](https://github.com/KseniaBastrakova/openPMD-converter-GDF) (ISC)
+  - maintainers: K Bastrakova @KseniaBastrakova, A Huebl @ax3l
+  - status: implemented (base standard 1.X)
+
 
 More than Scripts
 -----------------
