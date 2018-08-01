@@ -13,7 +13,7 @@ The following external repositories contain converters to/from openPMD files.
 - [openPMD => VTK](https://github.com/hightower8083/opmd2VTK) (Weizmann Institute of Science, Israel)
   - domain: convert openPMD HDF5 to VTK containers
   - [repository](https://github.com/hightower8083/opmd2VTK) (GPLv3+)
-  - maintainers: I Andriyash @hightower8083
+  - maintainer: I Andriyash @hightower8083
   - status: implemented (base standard 1.X)
 
 - [openPMD <=> GPT](https://github.com/KseniaBastrakova/openPMD-converter-GDF) (HZDR, Germany)
@@ -27,8 +27,8 @@ More than Scripts
 -----------------
 
 If you are looking for libraries, projects and frameworks that support the
-openPMD standard, please refer to our official list
-[here](https://github.com/openPMD/openPMD-standard#projects-and-libraries).
+openPMD standard, please refer to
+[our official list](https://github.com/openPMD/openPMD-projects).
 
 
 Low-Level APIs & Libraries
