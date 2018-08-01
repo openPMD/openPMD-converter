@@ -26,8 +26,11 @@ The following external repositories contain converters to/from openPMD files.
 More than Scripts
 -----------------
 
+This repository contains scripts and links to external projects that "heavily"
+copy-convert between openPMD and other formats.
+
 If you are looking for libraries, projects and frameworks that support the
-openPMD standard, please refer to
+openPMD standard *out-of-the-box*, please refer to
 [our official list](https://github.com/openPMD/openPMD-projects).
 
 
