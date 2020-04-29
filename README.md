@@ -5,6 +5,8 @@ This repository contains scripts and small tools that can be used to work with
 or enhance valid openPMD files.
 See the [openPMD standard](https://github.com/openPMD/openPMD-standard).
 
+Software projects that support openPMD natively are catalogued in [openPMD projects](https://github.com/openPMD/openPMD-projects).
+
 Conversion from/to openPMD
 --------------------------
 
