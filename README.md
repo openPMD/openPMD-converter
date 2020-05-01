@@ -31,6 +31,8 @@ More than Scripts
 This repository contains scripts and links to external projects that "heavily"
 copy-convert between openPMD and other formats.
 
+Please do not hesitate to contribute links to your own converters and scripts as a pull request.
+
 If you are looking for libraries, projects and frameworks that support the
 openPMD standard *out-of-the-box*, please refer to
 [our official list](https://github.com/openPMD/openPMD-projects).
@@ -64,10 +66,3 @@ For **ADIOS2**:
 - Python::Numpy binding: `adios2`
 - Official [binary tools](https://adios2.readthedocs.io/en/latest/ecosystem/utilities.html):
     `bpls`, `bpdump`, `bpmeta`, `bpdiff`, ...
-
-
-Development
------------
-
-Please do not hesitate to contribute links to your own converters and scripts as a pull request.
-For larger code/framework/library integrations, please see [openPMD projects](https://github.com/openPMD/openPMD-projects).
