@@ -52,16 +52,22 @@ For **HDF5** these are (at least):
     [`h5dump`](https://www.hdfgroup.org/HDF5/Tutor/cmdtoolview.html#h5dump),
     `h5repack`, `gif2h5`, ...
 
-an for **ADIOS**:
+For **ADIOS1**:
 
+- GUI: [HDF Compass](https://github.com/HDFGroup/hdf-compass)
 - Python::Numpy binding: `adios` and `adios_mpi`
 - Official [binary tools](https://github.com/ornladios/ADIOS/tree/master/utils):
+    `bpls`, `bpdump`, `bpmeta`, `bpdiff`, ...
+
+For **ADIOS2**:
+
+- Python::Numpy binding: `adios2`
+- Official [binary tools](https://adios2.readthedocs.io/en/latest/ecosystem/utilities.html):
     `bpls`, `bpdump`, `bpmeta`, `bpdiff`, ...
 
 
 Development
 -----------
 
-The development of these scripts is carried out *per-branch*.
-Each branch corresponds to a certain version of the standard and might
-be updated in case we find bugs or add new features.
+Please do not hesitate to contribute links to your own converters and scripts as a pull request.
+For larger code/framework/library integrations, please see [openPMD projects](https://github.com/openPMD/openPMD-projects).
