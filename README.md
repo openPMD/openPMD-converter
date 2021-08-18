@@ -12,6 +12,12 @@ Conversion from/to openPMD
 
 The following external repositories contain converters to/from openPMD files.
 
+- openPMD <=> openPMD: `openpmd-pipe`
+  - domain: convert between openPMD backends such as HDF5, ADIOS BP and JSON, multiplex stream or change iteration encodings
+  - [repository](https://github.com/openPMD/openPMD-api) (LGPLv3+)
+  - maintainers: F Poeschel @franzpoeschel, A Huebl @ax3l
+  - status: implemented (base standard 1.X)
+
 - [openPMD => VTK](https://github.com/hightower8083/opmd2VTK) (Weizmann Institute of Science, Israel)
   - domain: convert openPMD HDF5 to VTK containers
   - [repository](https://github.com/hightower8083/opmd2VTK) (GPLv3+)
