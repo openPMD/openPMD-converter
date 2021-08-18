@@ -12,7 +12,7 @@ Conversion from/to openPMD
 
 The following external repositories contain converters to/from openPMD files.
 
-- openPMD <=> openPMD: `openpmd-pipe`
+- openPMD <=> openPMD: `openpmd-pipe` is part of [openPMD-api](https://openpmd-api.readthedocs.io)
   - domain: convert between openPMD backends such as HDF5, ADIOS BP and JSON, multiplex stream or change iteration encodings
   - [repository](https://github.com/openPMD/openPMD-api) (LGPLv3+)
   - maintainers: F Poeschel @franzpoeschel, A Huebl @ax3l
