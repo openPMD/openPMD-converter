@@ -1,5 +1,5 @@
-openPMD Tools
-=============
+openPMD Converters
+==================
 
 This repository contains scripts and small tools that can be used to work with
 or enhance valid openPMD files.
