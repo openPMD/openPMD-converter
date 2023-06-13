@@ -30,6 +30,12 @@ The following external repositories contain converters to/from openPMD files.
   - maintainers: K Bastrakova @KseniaBastrakova, A Huebl @ax3l
   - status: implemented (base standard 1.X)
 
+- [SDF => openPMD] (https://github.com/denisbertini/mpi-sdf2opmd) (GSI GmbH, Germany)
+  - domain: convert EPOCH native SDF format to openPMD using MPI I/O and openPMD-api.
+  - [repository](https://github.com/denisbertini/mpi-sdf2opmd) (LGPLv3+)
+  - maintainers: D Bertini @denisbertini, J Hornung @jhornung-gh
+  - status: implemented for 2d, on-going work for 1d, 3d (base standard 1.X)
+
 
 More than Scripts
 -----------------
